@@ -14,4 +14,6 @@ Description: The street dog called Alexa was run over by a car and needs a surge
 Value: $100.00
 
 People can then acces the website or app and see what donations requests were posted and also filter requests by ORGs. 
-If someone feels sympathy towards a request and wish to donate, they can acces the request and make the donation. 
+If someone feels sympathy towards a request and wish to donate, they can acces the request and make the donation.
+
+Pedro Afonso - March/2020
