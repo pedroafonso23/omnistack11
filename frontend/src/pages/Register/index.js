@@ -56,7 +56,7 @@ export default function Registe() {
 
                 <form onSubmit={handleRegister}>  
                     <input 
-                        placeholder="Nomde da ONG" 
+                        placeholder="ONG Name" 
                         value={name}
                         onChange={e => setName(e.target.value)}
                     />
